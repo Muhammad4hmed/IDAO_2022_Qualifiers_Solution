@@ -2,7 +2,7 @@
 
 ## Track 1
 * ### To generate our submission
-  Please run the cnotebook from top to bottom
+  Please run the `inference.ipynb` notebook from top to bottom
 
 * ### To make everything from scratch
   Run the `data-split-5-folds.ipynb` notebook and it will generate `IDAO_Data_Folds.csv`
