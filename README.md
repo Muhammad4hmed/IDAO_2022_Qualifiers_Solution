@@ -25,7 +25,7 @@
 
 
 ## Track 2
-  zip the `Track B` folder and rename it to `track2.zip` and submit to the competition.
+  Simply submit the `track2.zip` to reproduce our submission
   
   
  Please open an issue if you face any error...
