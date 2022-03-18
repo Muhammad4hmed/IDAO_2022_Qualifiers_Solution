@@ -1,5 +1,9 @@
 # IDAO 2022 Qualifiers Solution
 
+# Result
+![](https://i.ibb.co/Pt0TJkz/Screenshot-2022-03-18-at-20-46-36-Results-IDAO-International-Data-Analysis-Olympiad.png)
+
+
 # Problem Statement
 ![](https://i.ibb.co/RzWkkmN/image.png)
 
